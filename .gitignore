@@ -1,0 +1,6 @@
+# This repo holds documentation + released binaries only. No source, no build.
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
